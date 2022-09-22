@@ -1,1 +1,3 @@
 Test file NGT MANILA
+
+Everything is fine here in the Philippines!
